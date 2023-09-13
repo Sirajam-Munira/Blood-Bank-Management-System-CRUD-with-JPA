@@ -14,22 +14,22 @@
 ## View Outputs here:
 
 - **Add Donor**
-  ![Output](https://github.com/munira-bjit/jpa-relationMapping/blob/main/ss/Add%20Donor.PNG)
+  ![Output](https://github.com/Sirajam-Munira/Blood-Bank-Management-System-CRUD-with-JPA/blob/main/ss/Add%20Donor.PNG)
 
 - **Get All Blood Groups**
-  ![Output](https://github.com/munira-bjit/jpa-relationMapping/blob/main/ss/AllBloodGroup.PNG)
+  ![Output](https://github.com/Sirajam-Munira/Blood-Bank-Management-System-CRUD-with-JPA/blob/main/ss/AllBloodGroup.PNG)
 
 - **Get All Donor**
-  ![Output](https://github.com/munira-bjit/jpa-relationMapping/blob/main/ss/AllDonor.PNG)
+  ![Output](https://github.com/Sirajam-Munira/Blood-Bank-Management-System-CRUD-with-JPA/blob/main/ss/AllDonor.PNG)
 
 - **Get All Donor by Blood Group**
-  ![Output](https://github.com/munira-bjit/jpa-relationMapping/blob/main/ss/DonorGetByBloodGroup.PNG)
+  ![Output](https://github.com/Sirajam-Munira/Blood-Bank-Management-System-CRUD-with-JPA/blob/main/ss/DonorGetByBloodGroup.PNG)
 
 - **Get All Donor**
-  ![Output](https://github.com/munira-bjit/jpa-relationMapping/blob/main/ss/DonorGetByID.PNG)
+  ![Output](https://github.com/Sirajam-Munira/Blood-Bank-Management-System-CRUD-with-JPA/blob/main/ss/DonorGetByID.PNG)
 
 - **Blood Table**
-  ![Output](https://github.com/munira-bjit/jpa-relationMapping/blob/main/ss/Blood%20Table.PNG)
+  ![Output](https://github.com/Sirajam-Munira/Blood-Bank-Management-System-CRUD-with-JPA/blob/main/ss/Blood%20Table.PNG)
 
 - **Patient Table**
-  ![Output](https://github.com/munira-bjit/jpa-relationMapping/blob/main/ss/PatientTable.PNG)
+  ![Output](https://github.com/Sirajam-Munira/Blood-Bank-Management-System-CRUD-with-JPA/blob/main/ss/PatientTable.PNG)
